@@ -1,6 +1,6 @@
 # AngularPwaIgdbDemo
 
-Small Angular 8 PWA Demo that shows what Angular and PWA's do. 
+Small Angular 10 PWA Demo that shows what Angular and PWA's do. 
 
 ## IGDB Api
 
